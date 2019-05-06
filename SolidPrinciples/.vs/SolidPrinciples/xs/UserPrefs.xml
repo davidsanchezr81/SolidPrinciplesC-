@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1FA4C57F-AA51-4E66-9888-13127C463119}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SolidPrinciples/Rectangle.cs">
+    <Files>
+      <File FileName="SolidPrinciples/Program.cs" Line="11" Column="10" />
+      <File FileName="SolidPrinciples/Rectangle.cs" Line="10" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SolidPrinciples" expanded="True">
+            <Node name="SolidPrinciples" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Rectangle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SolidPrinciples FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
