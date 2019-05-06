@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{1FA4C57F-AA51-4E66-9888-13127C463119}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SolidPrinciples/Rectangle.cs">
     <Files>
-      <File FileName="SolidPrinciples/Program.cs" Line="11" Column="10" />
-      <File FileName="SolidPrinciples/Rectangle.cs" Line="10" Column="10" />
+      <File FileName="SolidPrinciples/Program.cs" Line="27" Column="2" />
+      <File FileName="SolidPrinciples/Rectangle.cs" Line="25" Column="6" />
+      <File FileName="SolidPrinciples/AreaOperations.cs" Line="17" Column="2" />
+      <File FileName="SolidPrinciples/PerimeterOperations.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
